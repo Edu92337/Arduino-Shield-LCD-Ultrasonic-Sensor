@@ -8,12 +8,7 @@ Este projeto utiliza uma shield simples para Arduino equipada com um display LCD
 - Display LCD 16x2
 - Potenciômetro de 10kΩ
 - Sensor Ultrassônico HC-SR04
-
-## Montagem
-Abaixo está o diagrama de montagem feito no Tinkercad:
-
-![Diagrama de Circuito](imagens/diagrama_tinkercad.png)
-
+- 
 ## Funcionalidades
 - **Medição de Distância**: O sensor ultrassônico mede a distância até um objeto e exibe o valor no LCD.
 - **Ajuste de Brilho**: O potenciômetro controla o brilho do LCD.
