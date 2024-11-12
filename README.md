@@ -15,5 +15,7 @@ Este projeto utiliza uma shield simples para Arduino equipada com um display LCD
 
 ## Como Usar
 1. Conecte os componentes conforme o diagrama.
-2. Carregue o código `main.ino` na pasta `/código` para o Arduino.
-3. Ajuste o brilho do LCD girando o potenciômetro.
+2. Baixe o esquematico e a board da shield para o Eagle.
+3. Carregue o código `codigoShield.ino`  para o Arduino.
+
+
