@@ -9,7 +9,9 @@ Este projeto utiliza uma shield simples para Arduino equipada com um display LCD
 - Potenciômetro de 10kΩ
 - Sensor Ultrassônico HC-SR04
 
-![Diagrama de Circuito](diagrama_tinkercad.png)
+![Diagrama de Circuito no TinkerCad](imagens/diagrama_tinkercad.png)
+![Esquematico do Circuito no Eagle](imagens/EsquematicoSheidEagle.png)
+![Board do Circuito no Eagle](imagens/ShieldBrdEagle.png)
 
 ## Funcionalidades
 - **Medição de Distância**: O sensor ultrassônico mede a distância até um objeto e exibe o valor no LCD.
